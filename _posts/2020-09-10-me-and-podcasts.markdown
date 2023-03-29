@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "Me and Podcasts"
 category: blog
 date:   2020-09-10

@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "HDD Failure - My First Experience"
 category: blog
 date:   2020-11-13

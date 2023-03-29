@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Gender Transition: The Updates"
 category: blog
 date: 2022-11-15

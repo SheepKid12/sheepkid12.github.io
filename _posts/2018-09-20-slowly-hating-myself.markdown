@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "Slowly Hating Myself (more and more)"
 category: blog
 date:   2018-09-20

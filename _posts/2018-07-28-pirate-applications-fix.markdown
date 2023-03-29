@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "What happens when you fix a pirate application"
 category: blog
 date:   2018-07-28

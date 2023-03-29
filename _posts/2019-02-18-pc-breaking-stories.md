@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "Story Time - Times I've Broken Windows/Computers"
 category: blog
 date:   2019-02-18

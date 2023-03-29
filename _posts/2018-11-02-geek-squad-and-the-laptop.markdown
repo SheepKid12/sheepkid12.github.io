@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "Geek Squad and the Laptop with WiFi Issues"
 category: blog
 date:   2018-11-02

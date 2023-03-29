@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "1 year of Linux: do I still enjoy it?"
 category: blog
 date:   2020-08-31

@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "Mint Mobile - 1 Month Later"
 category: blog
 date:   2021-01-27

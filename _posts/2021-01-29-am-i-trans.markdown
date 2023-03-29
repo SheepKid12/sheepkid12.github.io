@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "Am I Trans?"
 category: blog
 date:   2021-01-29

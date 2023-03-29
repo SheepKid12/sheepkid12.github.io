@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "(Almost) 1 Year with YNAB"
 category: blog
 date: 2023-01-10

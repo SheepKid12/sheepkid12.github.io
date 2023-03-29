@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "Making the switch from Windows to Linux - my experiences"
 category: blog
 date:   2019-03-24

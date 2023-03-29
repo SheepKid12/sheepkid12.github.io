@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "A very interesting (to me) Apple Support chat"
 category: blog
 date:   2018-11-03

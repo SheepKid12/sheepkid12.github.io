@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "My experience with free hosting services (and an anime tracking site)"
 category: blog
 date:   2018-07-28

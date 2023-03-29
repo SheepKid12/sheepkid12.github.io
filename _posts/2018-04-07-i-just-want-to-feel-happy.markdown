@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "Weebly Post Archive - I just want to feel happy"
 category: "blog"
 date:   2018-04-07

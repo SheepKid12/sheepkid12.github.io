@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "2 months of Linux: what do I think?"
 category: blog
 date:   2019-05-14
