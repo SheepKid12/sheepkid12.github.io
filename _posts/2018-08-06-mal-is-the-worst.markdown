@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "MyAnimeList has one of the WORST support teams ever"
 category: blog
 date:   2018-08-06
@@ -16,8 +15,7 @@ Here's my tip: Don't sign up with a service that doesn't have an easy account de
 Where to start with this? On my blog post about free hosting services, I brought this up, but now I'll go into more detail with it. Go look at that post first, as it'll have the context for this post.
 
 Here's what my profile looked like (I even did my anime list but didn't screenshot it):
-<figure>
-	<a href="https://sheepkid12.gitlab.io/assets/images/posts/Round4-5.png"><img src="https://sheepkid12.gitlab.io/assets/images/posts/Round4-5.png"></a>
+![](https://sheepkid12.gitlab.io/assets/images/posts/Round4-5.png)
 </figure>
 
 They eventually stopped responding to my Gmail email, so I moved it over to ProtonMail and we're back in business, [or are we](https://www.youtube.com/watch?v=TN25ghkfgQA) \*vsauce music plays*? Nope, absolutely fucking nowhere... *I'm not going to show those messages because they'll have my email.
@@ -58,23 +56,14 @@ window.players = players;
 Here's some other various images that I have:
 
 - I was on the user page at one point in time:
-<figure>
-	<a href="https://sheepkid12.gitlab.io/assets/images/posts/userpage.png"><img src="https://sheepkid12.gitlab.io/assets/images/posts/userpage.png"></a>
-</figure>
+![](https://sheepkid12.gitlab.io/assets/images/posts/userpage.png)
 
 **The 2 variations of my anime page:**
 
 Version 1:
-
-<figure>
-	<a href="https://sheepkid12.gitlab.io/assets/images/posts/ALp1.png"><img src="https://sheepkid12.gitlab.io/assets/images/posts/ALp1.png"></a>
-</figure>
-
+![](/assets/images/posts/ALp1.png)
 Version 2:
-
-<figure>
-	<a href="https://sheepkid12.gitlab.io/assets/images/posts/ALp2.png"><img src="https://sheepkid12.gitlab.io/assets/images/posts/ALp2.png"></a>
-</figure>
+![](/assets/images/posts/ALp2.png)
 
 Every other image I have is variations on my user profile page.
 
@@ -92,9 +81,7 @@ Edit (March 19, 2019): Leave it to me to find more things to add to this (and ke
 
 And finally, to hopefully conclude this entire thing: the last picture I have from my phone (dated July 11, 2018 at 11:31 PM - I remember where I was when I did this: downstairs with the TV on the couch watching my brother at my mom's place). God I was up late that night.
 
-<figure>
-	<a href="https://sheepkid12.gitlab.io/assets/images/posts/IMG_5174.jpg"><img src="https://sheepkid12.gitlab.io/assets/images/posts/IMG_5174.jpg"></a>
-</figure>
+![](https://sheepkid12.gitlab.io/assets/images/posts/IMG_5174.jpg)
 
 My phone also has other variations of my profile, but I already have them here.
 

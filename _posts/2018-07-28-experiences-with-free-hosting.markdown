@@ -16,9 +16,8 @@ I don't exactly remember what I was thinking at the time I signed up for this on
 I have the same sort of feelings to a completly different service, MyAnimeList. For anyone out of the loop, they had an API issue that required they close the entire site down for almost a week. They're back now, but only somewhat, as most of their features are still down. I've been trying since they came back up to get my account deleted, and I've gotten nowhere with it. I have given up to the point where I've cussed them out on my [profile page](https://myanimelist.net/profile/SheepKid12) (now a dead link, see screenshot below).
 
 Here's what that looks like:
-<figure>
-	<a href="https://sheepkid12.gitlab.io/assets/images/posts/screenshot-mal-profile.png"><img src="https://sheepkid12.gitlab.io/assets/images/posts/screenshot-mal-profile.png"></a>
-</figure>
+
+![](https://sheepkid12.gitlab.io/assets/images/posts/screenshot-mal-profile.png)
 
 
 I would be asking for comments about similar experiences with sites like this, but since I don't like Disqus (and have disabled them on this site), you can't.
