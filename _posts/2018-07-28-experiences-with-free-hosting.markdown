@@ -17,7 +17,7 @@ I have the same sort of feelings to a completly different service, MyAnimeList. 
 
 Here's what that looks like:
 
-![](https://sheepkid12.gitlab.io/assets/images/posts/screenshot-mal-profile.png)
+![](/assets/images/posts/screenshot-mal-profile.png)
 
 
 I would be asking for comments about similar experiences with sites like this, but since I don't like Disqus (and have disabled them on this site), you can't.
