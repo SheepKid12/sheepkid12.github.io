@@ -17,7 +17,9 @@ I have the same sort of feelings to a completly different service, MyAnimeList. 
 
 Here's what that looks like:
 
-![](/assets/images/posts/screenshot-mal-profile.png)
+![mal-profile](/assets/images/posts/screenshot-mal-profile.png)
+
+<img src="https://cdn.com/path/to/flower.png" alt="The flower">
 
 
 I would be asking for comments about similar experiences with sites like this, but since I don't like Disqus (and have disabled them on this site), you can't.
