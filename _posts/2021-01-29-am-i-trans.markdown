@@ -1,0 +1,20 @@
+---
+layout: single
+title:  "Am I Trans?"
+category: blog
+date:   2021-01-29
+---
+
+*What was supposed to be a quick and short post regarding my gender identity.*
+
+It's 2023, and I'm editing this to be a bit more of something rather than a nothing burger.
+
+This post was supposed to be a quick and simple thing for me to put up, maybe look back on and have a laugh or two. Ultimately, I wasn't expecting what came of all of that. Quickly it became something else, and instead of posting all of it, I'll go into the story of how it came to be.
+
+## How it all happened
+
+I didn't use to have a separate private GitLab repo for my trans (what I call now) diary. It was actually on the blog here before (**this post**), and day in and day out I was burning through my monthly limit of how often I could run builds of the site. Assuming (if I do self host) that I keep the git repo side of things, I could very easily look back and see what was going on in the blog repo specifically in regards to the trans diary.
+
+I quickly figured out that I had to move it somewhere else. It wasn't getting any smaller, and the signs just kept coming that I was in fact trans. It was moved to a separate repo, but sill public at the time. That's why for the longest of time, I had it linked at the top of this site. It has been since removed, but I may put it back (or just post a link to it when I'm ready to re-release it to the public).
+
+Fast forward a year, and obviously, to answer the question, yes. I am trans, and I have no shame in saying that. Even if the world tries to put us down, we'll still be there.

@@ -1,6 +1,7 @@
 ---
+layout: single
 title: "On Anti-Trans Legislation (and recent events)"
-category: Blog
+category: blog
 date: 2023-03-28
 ---
 
