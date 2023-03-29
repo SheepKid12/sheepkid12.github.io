@@ -1,0 +1,12 @@
+---
+title: Redesign
+date: 2023-03-28
+---
+
+*I have a new theme!*
+
+After years of using the same one (Minimal Mistakes) for years now, I thought that it was time for something different. Not saying that the other theme is bad in any ways. It wasn't serving my needs anymore (mainly regarding post updates).
+
+So, we (well, *I*, have a new theme!
+
+It's called "Chirpy", and it was a suggestion from a Techno Tim video (aka: the person who is going to single handedly get me back into self hosting). I'm still tidying up some loose ends here and there, so some things may look off (or flat out not work) while the migration happens. I will make sure to update this when it's all said and done.
